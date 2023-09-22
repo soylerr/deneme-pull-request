@@ -1,2 +1,4 @@
 # deneme-pull-request
-Pull requesti test için açılmış repo
+
+
+Burada ilk kez değişiklik yapıyorum.
